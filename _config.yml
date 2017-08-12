@@ -1,2 +1,3 @@
 name: John Letourneux
-	markdown: kramdown
+markdown: kramdown
+future: true
